@@ -16,15 +16,15 @@
 
 
 ## About The Project
-Welcome to Wild Oasis! A hotel management web application where hotel staff can manage cabins, reservations and guests. In this project, I used Supabase as Backend and developed this project using advanced React topics such as React Query, HOC, ContextAPI, React Hook Form and ...
+Welcome to Wild Oasis! A hotel management web application where hotel staff can manage cabins, reservations and guests. In this project, I used Supabase as Backend and developed this project using advanced React topics such as React Query, HOC, ContextAPI, React Hook Form and ... 😉🏅
 
 ## Live Site
 - https://the-wild-oasis-demolive.vercel.app/
 
 ## Demo
-![The-Wild-Oasis-Demo](https://github.com/mersad-Bxtrue/The-Wild-Oasis/blob/master/public/demo.gif)
+![The-Wild-Oasis-Demo](https://github.com/mersad-Bxtrue/The-Wild-Oasis/blob/master/public/demo.jpg)
 
-## Features
+## ✅ Features
 - With the authentication system of this program, we make sure that only hotel employees are allowed to enter and use the program.
 - Users can manage their profiles, including uploading avatars and changing passwords.
 - The app has a dashboard that shows recent statistics on bookings, arrivals and sales.
@@ -35,7 +35,7 @@ Welcome to Wild Oasis! A hotel management web application where hotel staff can 
 - You can filter or sort your results based on different options.
 - It supports dark mode and light mode.
 
-## Technologies Used
+## ✅ Technologies Used
 - **React** for the frontend.
 - **Supabase** for the database and real-time data updates.
 - **Styled Components** for styling the UI, including dark mode.
