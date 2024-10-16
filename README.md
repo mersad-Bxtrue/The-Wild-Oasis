@@ -22,7 +22,7 @@ Welcome to Wild Oasis! A hotel management web application where hotel staff can 
 - https://the-wild-oasis-demolive.vercel.app/
 
 ## Demo
-![The-Wild-Oasis-Demo](https://github.com/mersad-Bxtrue/The-Wild-Oasis/blob/master/public/demo.jpg)
+![The-Wild-Oasis-Demo](https://github.com/mersad-Bxtrue/The-Wild-Oasis/blob/master/public/demos.jpg)
 
 ## ✅ Features
 - With the authentication system of this program, we make sure that only hotel employees are allowed to enter and use the program.
