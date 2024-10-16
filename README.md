@@ -49,7 +49,7 @@ Welcome to Wild Oasis! A hotel management web application where hotel staff can 
 - **React-Hot-Toast** to show success, error or notification messages.
 - **React-Icons** for icons.
 
-## Installation
+## ✅ Installation
 
 1. Clone the repo
    ```sh
@@ -68,5 +68,5 @@ Welcome to Wild Oasis! A hotel management web application where hotel staff can 
     npm run dev
     ```
 
-## Last Words
+## 💛 Last Words
 In this super application I learned to work with supabase and create authentication and backend systems and learned how to get data's from server using React Query or even update it and many other things that I learned it in React course on [Udemy](https://www.udemy.com/course/the-ultimate-react-course) by Jonas Schmedtmann.
