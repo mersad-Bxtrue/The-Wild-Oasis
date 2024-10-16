@@ -8,7 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Context API](https://img.shields.io/badge/context--api-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Hot Toast](https://img.shields.io/badge/react--hot--toast-%23F24E1E.svg?style=for-the-badge&logo=react&logoColor=white)
-![React Icons](https://img.shields.io/badge/react--icons-%23EA4C3D.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Icons](https://img.shields.io/badge/react--icons-%230e5998.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Recharts](https://img.shields.io/badge/recharts-%23ECF6F6.svg?style=for-the-badge&logo=react&logoColor=%E63946)
 ![React Hook Form](https://img.shields.io/badge/react--hook--form-%23E63946.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
