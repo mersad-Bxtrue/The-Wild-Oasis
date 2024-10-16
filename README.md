@@ -1,7 +1,7 @@
 # The Wild Oasis
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/react--router--dom-%23CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Router](https://img.shields.io/badge/react--router--dom-%2318672d.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-%23323330.svg?style=for-the-badge&logo=supabase&logoColor=%23EAB308)
 ![React Query](https://img.shields.io/badge/react--query-%236F46D8.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
