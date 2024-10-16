@@ -1,4 +1,10 @@
 # The Wild Oasis
+<div id="top"></div>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/react--router--dom-%23CA4245.svg?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%23323330.svg?style=for-the-badge&logo=supabase&logoColor=%23EAB308)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## About The Project
 Welcome to Wild Oasis! A hotel management web application where hotel staff can manage cabins, reservations and guests. In this project, I used Supabase as Backend and developed this project using advanced React topics such as React Query, HOC, ContextAPI, React Hook Form and ...
@@ -21,18 +27,18 @@ Welcome to Wild Oasis! A hotel management web application where hotel staff can 
 - It supports dark mode and light mode.
 
 ## Technologies Used
-- React for the frontend.
-- Supabase for the database and real-time data updates.
-- Styled Components for styling the UI, including dark mode.
-- React Router for navigation.
-- React Query for data fetching and caching.
-- React Hook Form for efficient form handling.
-- React-Error-Boundary to handle component rendering errors.
-- Context API for managing dark mode and light mode and local states.
-- Recharts for data visualization (charts and stats).
-- Vite for development environment and build system.
-- React-Hot-Toast to show success, error or notification messages.
-- React-Icons for icons.
+- **React** for the frontend.
+- **Supabase** for the database and real-time data updates.
+- **Styled Components** for styling the UI, including dark mode.
+- **React Router** for navigation.
+- **React Query** for data fetching and caching.
+- **React Hook Form** for efficient form handling.
+- **React-Error-Boundary** to handle component rendering errors.
+- **Context API** for managing dark mode and light mode and local states.
+- **Recharts** for data visualization (charts and stats).
+- **Vite** for development environment and build system.
+- **React-Hot-Toast** to show success, error or notification messages.
+- **React-Icons** for icons.
 
 ## Installation
 
