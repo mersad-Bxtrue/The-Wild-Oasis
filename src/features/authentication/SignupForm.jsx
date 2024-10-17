@@ -4,6 +4,7 @@ import Form from "../../ui/Form";
 import FormRow from "../../ui/FormRow";
 import Input from "../../ui/Input";
 import { useSignup } from "./useSignup";
+import toast from "react-hot-toast";
 
 function SignupForm() {
   const { signup, isLoading } = useSignup();
@@ -17,7 +18,9 @@ function SignupForm() {
       {
         onSettled: () => reset(), // Resets form after submission
       }
+
     );
+    toast.error("You cannot create a new user. Only the main admin can do this.")
   }
 
   return (
