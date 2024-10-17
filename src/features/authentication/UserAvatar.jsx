@@ -31,6 +31,7 @@ function UserAvatar() {
       <Avatar
         src={avatar || "default-user.jpg"} // Use default image if avatar is not available
         alt={`Avatar of ${fullName}`} // Accessibility text for the image
+        title="Avatar"
       />
       <span>{fullName}</span>
     </StyledUserAvatar>
